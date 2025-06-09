@@ -26,7 +26,7 @@ Este proyecto implementa un sistema interactivo de segmentación semántica util
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/deeplab-segmentacion.git
+git clone https://github.com/Alexis217/deeplabv3_semantic_image.git
 ```
 
 2. Abre `index.html` en tu navegador favorito.
